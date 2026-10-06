@@ -193,7 +193,7 @@ export default function Footer() {
               Admin Login
             </Link>
             <a
-              href="https://instagram.com"
+              href="https://www.instagram.com/sefrontechnologies?stkn=MW5hdmYzNWNxdGxzdA=="
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-blue-600 transition-colors"
@@ -201,7 +201,7 @@ export default function Footer() {
               Instagram
             </a>
             <a
-              href="https://youtube.com"
+              href="https://youtube.com/@sefrontechnologies?si=bZHChKVBbRdbLq0r"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-blue-600 transition-colors"
